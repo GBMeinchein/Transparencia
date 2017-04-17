@@ -1,0 +1,10 @@
+D:\Projetos\Transparencia\TransparenciaEntities\bin\Debug\TransparenciaEntities.dll.config
+D:\Projetos\Transparencia\TransparenciaEntities\bin\Debug\TransparenciaEntities.dll
+D:\Projetos\Transparencia\TransparenciaEntities\bin\Debug\TransparenciaEntities.pdb
+D:\Projetos\Transparencia\TransparenciaEntities\bin\Debug\EntityFramework.dll
+D:\Projetos\Transparencia\TransparenciaEntities\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projetos\Transparencia\TransparenciaEntities\bin\Debug\EntityFramework.xml
+D:\Projetos\Transparencia\TransparenciaEntities\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projetos\Transparencia\TransparenciaEntities\obj\Debug\TransparenciaEntities.csprojResolveAssemblyReference.cache
+D:\Projetos\Transparencia\TransparenciaEntities\obj\Debug\TransparenciaEntities.dll
+D:\Projetos\Transparencia\TransparenciaEntities\obj\Debug\TransparenciaEntities.pdb
